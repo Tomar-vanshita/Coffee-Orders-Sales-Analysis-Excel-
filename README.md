@@ -1,117 +1,110 @@
-# ☕ BrewMetrics: Coffee Orders Sales Analysis
+# Coffee Orders Sales Analysis (Excel)
 
-## 📌 Project Overview
-BrewMetrics is a data analysis project focused on analyzing **coffee sales and order data** to understand revenue trends, customer purchasing behavior, and product performance.
+## Project Overview
+This project analyzes coffee order sales data to understand revenue trends, product performance, and customer purchasing patterns.
 
-The project uses **Microsoft Excel** to simulate a real-world retail analytics scenario and demonstrate strong fundamentals in data cleaning, KPI analysis, and business insights.
+Using Microsoft Excel, the analysis focuses on identifying high-performing products, sales distribution, and key metrics that support business and inventory decisions.
 
 ---
 
-## 🎯 Business Objectives
-- Analyze overall coffee sales performance
+## Why This Project?
+I created this project to strengthen my Excel-based data analysis skills and to practice analyzing retail sales data in a structured, business-focused way.
+
+The goal was to convert raw sales data into meaningful insights that stakeholders can easily interpret.
+
+---
+
+## Business Objectives
+- Analyze overall coffee sales and revenue performance
 - Identify top-selling coffee types and sizes
-- Understand customer purchase patterns
-- Track revenue trends over time
-- Support data-driven decision-making for sales and inventory planning
+- Understand order quantity and pricing patterns
+- Support inventory and sales planning decisions
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Microsoft Excel**
-  - Data Cleaning & Formatting
-  - Pivot Tables
-  - Charts & Dashboards
-  - KPI Analysis
+  - Data cleaning and formatting
+  - Pivot tables
+  - Charts and visual analysis
+  - KPI-driven reporting
 
 ---
 
-## 📁 Dataset Information
+## Dataset Information
 - **Source:** Company-like mock dataset
-- **File Name:** `coffeeOrdersData.xlsx`
+- **File:** `coffeeOrdersData.xlsx`
 - **Data Includes:**
   - Order Date
   - Coffee Type
   - Coffee Size
   - Quantity Sold
   - Unit Price
-  - Total Sales
-  - Customer Details
+  - Total Sales Value
 
 ---
 
-
-## 📂 Project Structure
-
-Coffee-Orders-Analysis/
+## Project Structure
+Coffee-Orders-Excel-Analysis/
 │
 ├── data/
 │ └── coffeeOrdersData.xlsx
-│
-├── dashboard/
-│ └── coffee_sales_dashboard.xlsx
-│
-├── insights/
-│ └── sales_insights.md
 │
 └── README.md
 
 ---
 
-## ✨ Key Features / Highlights
-- Cleaned and structured raw sales data
-- Built pivot tables for sales and revenue analysis
-- Identified top-performing coffee products
-- Created visual dashboards using Excel charts
-- Focused on business insights, not just numbers
+## Key Features
+- Cleaned and structured sales data
+- Pivot table-based analysis
+- Product-wise and size-wise sales breakdown
+- Clear charts for trend analysis
+- Business-oriented insights
 
 ---
 
-## 📊 KPIs & Metrics Analyzed
+## KPIs & Metrics Analyzed
 - Total Revenue
 - Total Orders
 - Average Order Value (AOV)
 - Sales by Coffee Type
 - Sales by Coffee Size
-- Monthly Revenue Trends
-- Quantity Sold per Product
+- Monthly Sales Trends
 
 ---
 
-## 🔍 Key Insights
-- Certain coffee types contribute significantly to total revenue
-- Medium and large sizes generate higher average order value
-- Sales show clear seasonal or monthly trends
-- A small number of products drive the majority of revenue (Pareto effect)
+## Key Insights
+- A small number of coffee products generate the majority of revenue
+- Medium and large sizes contribute higher average order value
+- Sales patterns vary across different coffee types
+- Clear demand trends can support better inventory planning
 
 ---
 
-## ▶️ How to Use This Project
-1. Download the Excel file from the `data/` folder
-2. Open `coffeeOrdersData.xlsx` in Microsoft Excel
-3. Explore:
-   - Pivot tables for analysis
-   - Charts and dashboard sheets
-4. Review summarized findings in the `insights/` folder
+## How to Use This Project
+1. Download the Excel file from the `data` folder
+2. Open it using Microsoft Excel
+3. Review pivot tables and charts
+4. Analyze insights derived from the data
 
 ---
 
-## 📈 Business Impact
-- Helps coffee retailers optimize product offerings
-- Supports inventory planning based on demand
-- Identifies high-revenue coffee categories
-- Enables data-driven pricing and marketing strategies
+## Business Impact
+- Helps retailers identify high-demand coffee products
+- Supports inventory and stock planning
+- Enables data-driven pricing and sales strategies
 
 ---
 
-## 🔮 Future Improvements
-- Build an interactive Power BI dashboard
-- Perform customer segmentation analysis
-- Add sales forecasting using Python
-- Automate data refresh and reporting
+## Future Improvements
+- Create an interactive Power BI dashboard
+- Add customer-level segmentation
+- Perform sales forecasting
+- Automate reporting workflows
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Vanshita Tomar**  
 Aspiring Data Analyst | Excel | SQL | Power BI  
 
